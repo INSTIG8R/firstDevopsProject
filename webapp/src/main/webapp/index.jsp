@@ -10,6 +10,7 @@
 	  		float: left;
 	    		width: 30%;
 	      		padding: 5px;
+			height: auto;
 		}
 		
 		.row::after {
