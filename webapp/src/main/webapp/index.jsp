@@ -105,7 +105,7 @@
 
 			<figure>
 				<img src="https://drive.google.com/uc?export=view&id=1GaWmR-cGGYZHdSymo8pwmZ8V_5dP6Opa" style="width:100%;height:400px;">
-				<figcaption>Pipeline</figcaption>
+				<figcaption style="text-align:center">Pipeline</figcaption>
 			</figure>
 </body>
 </html>
