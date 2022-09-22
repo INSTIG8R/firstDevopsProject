@@ -12,13 +12,6 @@
 	      		padding: 5px;
 			height: 200px;
 		}
-		.resp{
-	  		float: center;
-	    		width: 100%;
-	      		padding: 5px;
-			height: auto;
-			max-height: 200px;
-		}
 		
 		.row::after {
 	  		content: "";
@@ -47,21 +40,21 @@
 
 			<figure>
 				<img src="https://www.zend.com/sites/default/files/image/2019-09/logo-jenkins.jpg" style="width:100%">
-				<!--<figcaption>Jenkins</figcaption>-->
+				<figcaption>Jenkins</figcaption>
 			</figure>
 		</div>
 
 		<div class="column">
 			<figure>
 				<img src="https://1000logos.net/wp-content/uploads/2020/08/Git-Logo.jpg"style="width:100%">
-				<!--<figcaption>Git</figcaption>-->
+				<figcaption>Git</figcaption>
 			</figure>
 		</div>
 		<div class="column">
 
 			<figure>
 				<img src="https://i.pinimg.com/originals/30/b1/50/30b150cd489202db131009ac9540cec0.png" style="width:100%">
-				<!--<figcaption>Github</figcaption>-->
+				<figcaption>Github</figcaption>
 			</figure>
 		</div>
 	</div>
@@ -69,19 +62,19 @@
 		<div class="column">
 			<figure>
 				<img src="https://www.freelancinggig.com/blog/wp-content/uploads/2018/10/Apache-Maven-its-uses.jpeg" style="width:100%">
-				<!--<figcaption>Maven</figcaption>-->
+				<figcaption>Maven</figcaption>
 			</figure>
 		</div>
 		<div class="column">
 			<figure>
 				<img src="https://logos-download.com/wp-content/uploads/2018/09/Apache_Tomcat_Logo.png" style="width:100%">
-				<!--<figcaption>Tomcat</figcaption>-->
+				<figcaption>Tomcat</figcaption>
 			</figure>
 		</div>
 		<div class="column">
 			<figure>
 				<img src="https://download.logo.wine/logo/Docker_(software)/Docker_(software)-Logo.wine.png" style="width:100%">
-				<!--<figcaption>Docker</figcaption>-->
+				<figcaption>Docker</figcaption>
 			</figure>
 		</div>
 	</div>
@@ -89,19 +82,19 @@
 		<div class="column">
 			<figure>
 				<img src="https://miro.medium.com/max/728/1*kjZhVc8uPnFOhkxK1Ic9Gg.jpeg" style="width:100%">
-				<!--<figcaption>Dockerhub</figcaption>-->
+				<figcaption>Dockerhub</figcaption>
 			</figure>
 		</div>
 		<div class="column">
 			<figure>
 				<img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" style="width:100%">
-				<!--<figcaption>AWS</figcaption>-->
+				<figcaption>AWS</figcaption>
 			</figure>
 		</div>
 		<div class="column">
 			<figure>
 				<img src="https://www.vectorlogo.zone/logos/ansible/ansible-ar21.png" style="width:100%">
-				<!--<figcaption>Ansible</figcaption>-->
+				<figcaption>Ansible</figcaption>
 			</figure>
 		</div>
 	</div>
