@@ -11,6 +11,7 @@
 	    		width: 30%;
 	      		padding: 5px;
 			height: auto;
+			max-height: 200px;
 		}
 		
 		.row::after {
@@ -39,21 +40,21 @@
 		<div class="column">
 
 			<figure>
-				<img src="https://www.zend.com/sites/default/files/image/2019-09/logo-jenkins.jpg" style="width:100%;height:200px;">
+				<img src="https://www.zend.com/sites/default/files/image/2019-09/logo-jenkins.jpg" style="width:100%">
 				<figcaption>Jenkins</figcaption>
 			</figure>
 		</div>
 
 		<div class="column">
 			<figure>
-				<img src="https://1000logos.net/wp-content/uploads/2020/08/Git-Logo.jpg"style="width:100%;height:200px;">
+				<img src="https://1000logos.net/wp-content/uploads/2020/08/Git-Logo.jpg"style="width:100%">
 				<figcaption>Git</figcaption>
 			</figure>
 		</div>
 		<div class="column">
 
 			<figure>
-				<img src="https://i.pinimg.com/originals/30/b1/50/30b150cd489202db131009ac9540cec0.png" style="width:100%;height:200px;">
+				<img src="https://i.pinimg.com/originals/30/b1/50/30b150cd489202db131009ac9540cec0.png" style="width:100%">
 				<figcaption>Github</figcaption>
 			</figure>
 		</div>
@@ -61,19 +62,19 @@
 	<div class="row">
 		<div class="column">
 			<figure>
-				<img src="https://www.freelancinggig.com/blog/wp-content/uploads/2018/10/Apache-Maven-its-uses.jpeg" style="width:100%;height:200px;">
+				<img src="https://www.freelancinggig.com/blog/wp-content/uploads/2018/10/Apache-Maven-its-uses.jpeg" style="width:100%">
 				<figcaption>Maven</figcaption>
 			</figure>
 		</div>
 		<div class="column">
 			<figure>
-				<img src="https://logos-download.com/wp-content/uploads/2018/09/Apache_Tomcat_Logo.png" style="width:100%;height:200px;">
+				<img src="https://logos-download.com/wp-content/uploads/2018/09/Apache_Tomcat_Logo.png" style="width:100%">
 				<figcaption>Tomcat</figcaption>
 			</figure>
 		</div>
 		<div class="column">
 			<figure>
-				<img src="https://download.logo.wine/logo/Docker_(software)/Docker_(software)-Logo.wine.png" style="width:100%;height:200px;">
+				<img src="https://download.logo.wine/logo/Docker_(software)/Docker_(software)-Logo.wine.png" style="width:100%">
 				<figcaption>Docker</figcaption>
 			</figure>
 		</div>
@@ -81,19 +82,19 @@
 	<div class="row">
 		<div class="column">
 			<figure>
-				<img src="https://miro.medium.com/max/728/1*kjZhVc8uPnFOhkxK1Ic9Gg.jpeg" style="width:100%;height:200px;">
+				<img src="https://miro.medium.com/max/728/1*kjZhVc8uPnFOhkxK1Ic9Gg.jpeg" style="width:100%">
 				<figcaption>Dockerhub</figcaption>
 			</figure>
 		</div>
 		<div class="column">
 			<figure>
-				<img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" style="width:100%;height:200px;">
+				<img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" style="width:100%">
 				<figcaption>AWS</figcaption>
 			</figure>
 		</div>
 		<div class="column">
 			<figure>
-				<img src="https://www.vectorlogo.zone/logos/ansible/ansible-ar21.png" style="width:100%;height:200px;">
+				<img src="https://www.vectorlogo.zone/logos/ansible/ansible-ar21.png" style="width:100%">
 				<figcaption>Ansible</figcaption>
 			</figure>
 		</div>
