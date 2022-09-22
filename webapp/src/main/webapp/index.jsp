@@ -10,8 +10,7 @@
 	  		float: left;
 	    		width: 30%;
 	      		padding: 5px;
-			height: auto;
-			max-height: 200px;
+			height: 200px;
 		}
 		.resp{
 	  		float: center;
