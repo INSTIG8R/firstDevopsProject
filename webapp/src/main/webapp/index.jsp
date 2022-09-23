@@ -17,6 +17,10 @@
 	    		clear: both;
 	      		display: table;
 		}
+		.tab {
+    			display: inline-block;
+    			margin-left: 40px;
+		}
 
 	</style>
 </head>
@@ -110,5 +114,90 @@
 				<img src="https://drive.google.com/uc?export=view&id=1EPoOsUfxYtM5vkPSxG6BwxXfa5yHiEMh" style="width:100%;height:400px;">
 				<figcaption style="text-align:center">Pipeline</figcaption>
 			</figure>
+
+	<h2 style="text-align:center">Tasks Performed</h2>
+	<p>
+	<ol type="1">
+  		<li>Build and Deploy on a VM<br>
+			<ol type="a">
+				<span class="tab"></span><li>Setup jenkins</li>
+				<span class="tab"></span><li>Setup and configure maven and git</li>
+				<span class="tab"></span><li>Setup tomcat server</li>
+				<span class="tab"></span><li>Integrate github, maven, tomcat server with jenkins</li>
+				<span class="tab"></span><li>Create a ci/cd pipeline</li>
+				<span class="tab"></span><li>Test deployment</li>
+			</ol>
+		</li>
+		<li>Build and Deploy on Docker<br>
+			<ol type="a">
+				<span class="tab"></span><li>Setup docker environment</li>
+				<span class="tab"></span><li>Write dockerfile</li>
+				<span class="tab"></span><li>Create image and container on docker host</li>
+				<span class="tab"></span><li>Integrate docker host with jenkins</li>
+				<span class="tab"></span><li>Create a ci/cd pipeline</li>
+				<span class="tab"></span><li>Test deployment</li>
+			</ol>
+		</li>
+		<li>Build on Jenkins and Deploy on Docker through Ansible<br>
+			<ol type="a">
+				<span class="tab"></span><li>Setup Ansible server</li>
+				<span class="tab"></span><li>Integrate Docker host with Ansible</li>
+				<span class="tab"></span><li>Use ansible playbook to create image</li>
+				<span class="tab"></span><li>Use ansible playbook to create container</li>
+				<span class="tab"></span><li>Integrate ansible with jenkins</li>
+				<span class="tab"></span><li>Create ci/cd pipeline</li>
+				<span class="tab"></span><li>Test deployment</li>
+			</ol>
+		</li>
+	</ol>
+	</p>
+	<p>
+	<ol type="1">
+		<li>Git and Github
+			<ul>
+				<li>Project Repository (git- local, github- remote)</li>
+				<li>Version Control</li>
+			</ul>
+		</li>
+		<li>AWS<
+			<ul>
+				<li>Cloud host</li>
+			</ul>
+		</li>
+		<li>Jenkins
+			<ul>
+				<li>Enabler for Continous Integration</li>
+			</ul>
+		</li>
+		<li>Maven
+			<ul>
+				<li>Build artifacts (.war) for the java program</li>
+			</ul>			
+		</li>
+		<li>Apache Tomcat
+			<ul>
+				<li>Serves as Virtual Machine to run the program</li>
+				<li>Containers can be deployed as well</li>
+			</ul>
+		</li>
+		<li>Docker
+			<ul>
+				<li>Package programs into containers by first coverting them to image</li>
+			</ul>
+		</li>
+		<li>Ansible
+			<ul>
+				<li>Creates docker image using docker with the help of dockerfile</li>
+				<li>Push and pull images using dockerhub and docker and create containers out of it and also execute various instruction along the process</li>
+			</ul>
+		</li>
+		<li>Dockerhub
+			<ul>
+				<li>Remote Repository for docker images</li>
+			</ul>
+		</li>
+	</ol>
+	</p>
+
 </body>
 </html>
