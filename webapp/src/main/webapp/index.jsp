@@ -114,7 +114,9 @@
 				<img src="https://drive.google.com/uc?export=view&id=1EPoOsUfxYtM5vkPSxG6BwxXfa5yHiEMh" style="width:100%;height:400px;">
 				<figcaption style="text-align:center">Pipeline</figcaption>
 			</figure>
-
+	<br>
+	<br>
+	<br>
 	<h2 style="text-align:center">Tasks Performed</h2>
 	<p>
 	<ol type="1">
