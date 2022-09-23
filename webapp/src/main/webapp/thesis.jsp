@@ -21,6 +21,10 @@
 	    		clear: both;
 	      		display: table;
 		}
+		.pipe {
+			display: flex;
+			justify-content: center;
+		}
 
 	</style>
 </head>
@@ -98,12 +102,13 @@
 	<br>
 	<h2 style="text-align:center">Pipeline</h2>
 	<p style="text-align:center">The project tries to find the solution for anomaly detection in Industrial Control System that comes in all shapes and sizes through machine learning approach. The pipeline is as follows:<br>
-
-			<figure>
-				<img src="https://drive.google.com/uc?export=view&id=19QmvETQAB_9KbjIlpecEfdZWAZUkZkNC" style="width:600px;height:400px;">
-				<figcaption style="text-align:center">Pipeline</figcaption>
-			</figure>
 	</p>
+	<div class="pipe">
+		<figure>
+			<img src="https://drive.google.com/uc?export=view&id=19QmvETQAB_9KbjIlpecEfdZWAZUkZkNC" style="width:600px;height:400px;">
+			<figcaption style="text-align:center">Pipeline</figcaption>
+		</figure>
+	</div>
 	<h2 style="text-align:center" >Significant Observations</h2>
 	<div class="row">
 		<div class="column">
