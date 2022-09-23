@@ -105,7 +105,7 @@
 	<p style="text-align:center">The project focuses on a complete CI/CD pipeline. The pipeline is as follows:</p>
 
 			<figure>
-				<img src="https://drive.google.com/uc?export=view&id=1GaWmR-cGGYZHdSymo8pwmZ8V_5dP6Opa" style="width:100%;height:400px;">
+				<img src="https://drive.google.com/uc?export=view&id=1EPoOsUfxYtM5vkPSxG6BwxXfa5yHiEMh" style="width:100%;height:400px;">
 				<figcaption style="text-align:center">Pipeline</figcaption>
 			</figure>
 </body>
