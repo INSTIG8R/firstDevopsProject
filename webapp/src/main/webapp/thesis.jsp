@@ -99,7 +99,7 @@
 	<p style="text-align:center">The project tries to find the solution for anomaly detection in Industrial Control System that comes in all shapes and sizes through machine learning approach. The pipeline is as follows:</p>
 
 			<figure>
-				<img src="https://drive.google.com/uc?export=view&id=1GaWmR-cGGYZHdSymo8pwmZ8V_5dP6Opa" style="width:100%;height:400px;">
+				<img src="https://drive.google.com/uc?export=view&id=19QmvETQAB_9KbjIlpecEfdZWAZUkZkNC" style="width:100%;height:400px;">
 				<figcaption style="text-align:center">Pipeline</figcaption>
 			</figure>
 	<h2 style="text-align:center" >Significant Observations</h2>
@@ -155,8 +155,6 @@
 				<figcaption>Confusion Matrix</figcaption>
 			</figure>
 		</div>
-	</div>
-	<div class="row">
 		<div>
 			<figure>
 				<img src="https://drive.google.com/uc?export=view&id=https://drive.google.com/file/d/1pON6O2l4uyRHv6ZGndDSDTjUl1c0uREt/view?usp=sharing" style="width:100%;height: 400px;">
@@ -175,6 +173,5 @@
 				<figcaption>Gmean, MCC</figcaption>
 			</figure>
 		</div>
-	</div>
 </body>
 </html>
