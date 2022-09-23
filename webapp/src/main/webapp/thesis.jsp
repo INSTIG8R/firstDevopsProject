@@ -157,13 +157,13 @@
 	<div class="row">
 		<div class="column2">
 			<figure>
-				<img src="https://drive.google.com/uc?export=view&id=1PAeSiMBKPbR43L-8gNEtgtRTbvRe_Y9S" style="width:100%;height: 400px;">
+				<img src="https://drive.google.com/uc?export=view&id=1PAeSiMBKPbR43L-8gNEtgtRTbvRe_Y9S" style="width:100%;height: 300px;">
 				<figcaption>Confusion Matrix</figcaption>
 			</figure>
 		</div>
 		<div class="column2">
 			<figure>
-				<img src="https://drive.google.com/uc?export=view&id=1pON6O2l4uyRHv6ZGndDSDTjUl1c0uREt" style="width:100%;height: 400px;">
+				<img src="https://drive.google.com/uc?export=view&id=1pON6O2l4uyRHv6ZGndDSDTjUl1c0uREt" style="width:100%;height: 300px;">
 				<figcaption>F1, Specificity, ROC</figcaption>
 			</figure>
 		</div>
@@ -171,13 +171,13 @@
 	<div class="row">
 		<div class="column2">
 			<figure>
-				<img src="https://drive.google.com/uc?export=view&id=1bv68tvBOBHuKNaKWeDoiJiEYy-59rnEI" style="width:100%;height: 400px;">
+				<img src="https://drive.google.com/uc?export=view&id=1bv68tvBOBHuKNaKWeDoiJiEYy-59rnEI" style="width:100%;height: 300px;">
 				<figcaption>Recall, Precision, Accuracy</figcaption>
 			</figure>
 		</div>
 		<div class="column2">
 			<figure>
-				<img src="https://drive.google.com/uc?export=view&id=1bhJqwkkLpa_cpWx1mpTZ9x7LRc3aW7P1" style="width:100%;height: 400px;">
+				<img src="https://drive.google.com/uc?export=view&id=1bhJqwkkLpa_cpWx1mpTZ9x7LRc3aW7P1" style="width:100%;height: 300px;">
 				<figcaption>Gmean, MCC</figcaption>
 			</figure>
 		</div>
