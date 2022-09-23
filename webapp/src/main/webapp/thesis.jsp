@@ -3,7 +3,7 @@
 
 <head>
 
-	<title>My DevOps Project</title>
+	<title>ADS in ICS</title>
 	<style>
 		
 		.column{
@@ -24,8 +24,8 @@
 <body>
 
 	<div id="header">
-		<h1 class="hover" style="text-align:center">My First DevOps Project</h1>
-		<p id="name"style="text-align:center">Hi! I am Ahammed Sakir Nabil and I wish to build a career in DevOps.</p> 
+		<h1 class="hover" style="text-align:center">Anomaly Detection System in Industrial Control System using Machine Learning</h1>
+		<p id="name"style="text-align:center">Hi! I am Ahammed Sakir Nabil and I wish to build a career in DevOps. You can checkout some of my other projects below :</p> 
 	</div>
 
 	<br>
