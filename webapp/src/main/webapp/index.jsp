@@ -167,38 +167,52 @@
 				<li>Version Control</li>
 			</ul>
 		</li>
+		<br>
+		<br>
 		<li>AWS<
 			<ul>
 				<li>Cloud host</li>
 			</ul>
 		</li>
+		<br>
+		<br>
 		<li>Jenkins
 			<ul>
 				<li>Enabler for Continous Integration</li>
 			</ul>
 		</li>
+		<br>
+		<br>
 		<li>Maven
 			<ul>
 				<li>Build artifacts (.war) for the java program</li>
 			</ul>			
 		</li>
+		<br>
+		<br>
 		<li>Apache Tomcat
 			<ul>
 				<li>Serves as Virtual Machine to run the program</li>
 				<li>Containers can be deployed as well</li>
 			</ul>
 		</li>
+		<br>
+		<br>
 		<li>Docker
 			<ul>
 				<li>Package programs into containers by first coverting them to image</li>
 			</ul>
 		</li>
+		<br>
+		<br>
 		<li>Ansible
 			<ul>
 				<li>Creates docker image using docker with the help of dockerfile</li>
 				<li>Push and pull images using dockerhub and docker and create containers out of it and also execute various instruction along the process</li>
 			</ul>
 		</li>
+		<br>
+		<br>
 		<li>Dockerhub
 			<ul>
 				<li>Remote Repository for docker images</li>
