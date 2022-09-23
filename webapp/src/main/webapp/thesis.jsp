@@ -99,7 +99,7 @@
 	<p style="text-align:center">The project tries to find the solution for anomaly detection in Industrial Control System that comes in all shapes and sizes through machine learning approach. The pipeline is as follows:</p>
 
 			<figure>
-				<img src="https://drive.google.com/uc?export=view&id=19QmvETQAB_9KbjIlpecEfdZWAZUkZkNC" style="width:100%;height:400px;">
+				<img src="https://drive.google.com/uc?export=view&id=19QmvETQAB_9KbjIlpecEfdZWAZUkZkNC" style="width:600px;height:400px;">
 				<figcaption style="text-align:center">Pipeline</figcaption>
 			</figure>
 	<h2 style="text-align:center" >Significant Observations</h2>
@@ -134,7 +134,6 @@
 				<figcaption>Full Dataset Attack Instances</figcaption>
 			</figure>
 		</div>
-	<div class="row">
 		<div class="column">
 			<figure>
 				<img src="https://drive.google.com/uc?export=view&id=https://drive.google.com/file/d/1xBczEjT_8w3sLfex5jejAo2MAqxkAh4N/view?usp=sharing" style="width:100%;height: 200px;">
@@ -149,29 +148,32 @@
 		</div>
 	</div>
 	<div class="row">
-		<div>
+		<div class="column2">
 			<figure>
 				<img src="https://drive.google.com/uc?export=view&id=https://drive.google.com/file/d/1PAeSiMBKPbR43L-8gNEtgtRTbvRe_Y9S/view?usp=sharing" style="width:100%;height: 400px;">
 				<figcaption>Confusion Matrix</figcaption>
 			</figure>
 		</div>
-		<div>
+		<div class="column2">
 			<figure>
 				<img src="https://drive.google.com/uc?export=view&id=https://drive.google.com/file/d/1pON6O2l4uyRHv6ZGndDSDTjUl1c0uREt/view?usp=sharing" style="width:100%;height: 400px;">
 				<figcaption>F1, Specificity, ROC</figcaption>
 			</figure>
 		</div>
-		<div>
+	</div>
+	<div class="row">
+		<div class="column2">
 			<figure>
 				<img src="https://drive.google.com/uc?export=view&id=https://drive.google.com/file/d/1bv68tvBOBHuKNaKWeDoiJiEYy-59rnEI/view?usp=sharing" style="width:100%;height: 400px;">
 				<figcaption>Recall, Precision, Accuracy</figcaption>
 			</figure>
 		</div>
-		<div>
+		<div class="column2">
 			<figure>
 				<img src="https://drive.google.com/uc?export=view&id=https://drive.google.com/file/d/1bhJqwkkLpa_cpWx1mpTZ9x7LRc3aW7P1/view?usp=sharing" style="width:100%;height: 400px;">
 				<figcaption>Gmean, MCC</figcaption>
 			</figure>
 		</div>
+	</div>
 </body>
 </html>
