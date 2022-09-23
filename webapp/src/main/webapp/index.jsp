@@ -169,7 +169,7 @@
 		</li>
 		<br>
 		<br>
-		<li>AWS<
+		<li>AWS
 			<ul>
 				<li>Cloud host</li>
 			</ul>
