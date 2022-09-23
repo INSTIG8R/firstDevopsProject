@@ -25,8 +25,8 @@
 
 	<div id="header">
 		<h1 class="hover" style="text-align:center">My First DevOps Project</h1>
-		<p id="name"style="text-align:center">Hi! I am Ahammed Sakir Nabil and I wish to build a career in DevOps.</p>
-		<p style="text-align:center"><a href="thesis.jsp"><i>Thesis</i></a>
+		<p id="name"style="text-align:center">Hi! I am Ahammed Sakir Nabil and I wish to build a career in DevOps.You can checkout some of my other projects below :</p>
+		<p style="text-align:center"><a href="thesis.jsp"><i>ADS in ICS</i></a>
 	</div>
 
 	<br>
