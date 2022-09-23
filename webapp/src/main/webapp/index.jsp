@@ -128,6 +128,7 @@
 				<span class="tab"></span><li>Test deployment</li>
 			</ol>
 		</li>
+		<br>
 		<li>Build and Deploy on Docker<br>
 			<ol type="a">
 				<span class="tab"></span><li>Setup docker environment</li>
@@ -138,6 +139,7 @@
 				<span class="tab"></span><li>Test deployment</li>
 			</ol>
 		</li>
+		<br>
 		<li>Build on Jenkins and Deploy on Docker through Ansible<br>
 			<ol type="a">
 				<span class="tab"></span><li>Setup Ansible server</li>
@@ -150,7 +152,13 @@
 			</ol>
 		</li>
 	</ol>
+	<br>
+	<br>
+	<br>	
 	</p>
+	<h2 style="text-align:center">Purpose of each component</h2>
+	<br>
+	<br>
 	<p>
 	<ol type="1">
 		<li>Git and Github
