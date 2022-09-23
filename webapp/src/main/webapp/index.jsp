@@ -17,6 +17,10 @@
 	    		clear: both;
 	      		display: table;
 		}
+		.cent {
+			display: flex;
+			justify-content: center;
+		}
 
 	</style>
 </head>
@@ -35,6 +39,7 @@
 
 	<h2 style="text-align:center" >Tools Used</h2>
 	<p style="text-align:center"> I have used the following tools in this project:</p><br>
+	<div class="cent">
 	<div class="row">
 		<div class="column">
 
@@ -97,6 +102,7 @@
 				<figcaption>Ansible</figcaption>
 			</figure>
 		</div>
+	</div>
 	</div>
 	<br>
 	<br>
